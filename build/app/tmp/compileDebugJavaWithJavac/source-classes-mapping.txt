@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+jp/naoki/flutter_helloworld/BuildConfig.java
+ jp.naoki.flutter_helloworld.BuildConfig
